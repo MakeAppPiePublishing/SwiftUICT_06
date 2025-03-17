@@ -1,4 +1,4 @@
-# Swift UI Complete Training  SwiftUICT_06 - Chapter ^
+# Swift UI Complete Training  SwiftUICT_06 - Chapter 6
 This is the exercise file for the LinkedIn Learning course *SwiftUI Complete Training* that you can use to follow along with me. If you get stuck working along, you can download the files for the current video to get back on course. 
 
 I've organized this into fifteen downloads, one for each chapter. Download the chapter and decompress the `.zip` file. You will find the videos in that chapter labeled by video number. Refer to the appropriate video for the video number. 
